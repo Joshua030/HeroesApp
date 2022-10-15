@@ -1,0 +1,19 @@
+.heroeImage{
+    margin-top: 20px;
+    border-radius: 100%;
+    box-shadow: 0 10px 20px rgba(0,0,0 0.19);
+    border: 5px solid black;
+    margin: 1rem auto;
+    width: 100%;
+}
+
+.mainTitle {
+    background-color: #666;
+    color: white;
+    padding: 10px;
+    display: block;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 10px 20px rgb(187, 197, 129)
+    
+}
